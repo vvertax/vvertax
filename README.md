@@ -11,7 +11,7 @@ I turn random ideas into real little projects, usually before I have a fully pol
 > [!NOTE]
 > Most of what I build is vibe-coded, and most of what I make next will probably be vibe-coded too.
 
-- Main project right now: **[PhasmoHelper](https://github.com/vvertax/PhasmoHelper)**.
+- Main project right now: ~~ㅤ[PhasmoHelper](https://vvertax.site/)ㅤ~~ㅤI don't have any projects right now.
 - I usually build first, refine later, and learn along the way
 - Reach me at **vvertax@vvertax.site**
 
