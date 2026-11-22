@@ -19,6 +19,6 @@ I turn random ideas into real little projects, usually before I have a fully pol
 
 <p align="left">
   <a href="https://vvrtx.lol/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,py,ps" alt="hello" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,py" alt="Privet!" />
   </a>
 </p>
